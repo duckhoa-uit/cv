@@ -15,6 +15,9 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import EmojiKitchenSaver from "./emoji-kitchen-saver.png";
+import NotionAvatar from "./notion-avatar-khoa.png";
+import MeteorClient from "./meteor-client.png";
 
 export {
   ConsultlyLogo,
@@ -34,4 +37,7 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
+  EmojiKitchenSaver,
+  NotionAvatar,
+  MeteorClient
 };
